@@ -2,9 +2,9 @@
 This challenge contains two csv files and two scripts- PyBank and PyPoll
 
 #PyBank 
-main.py in the PyBank folder analyzes the financial records of a company. The financial data called budget_data.csv is composed of two columns Date and Profit/Losses. 
+main.py in the PyBank folder analyzes the financial records of a company. The financial data called budget_data.csv is composed of two columns 'Date' and 'Profit/Losses'. 
 
-The main.py svcript calculates the following:
+The main.py script calculates the following:
 
     *The total number of months included in the dataset
   
