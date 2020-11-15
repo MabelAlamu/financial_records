@@ -2,6 +2,7 @@
 This challenge contains two csv files and two scripts- PyBank and PyPoll
 
 #PyBank 
+
 main.py in the PyBank folder analyzes the financial records of a company. The financial data called budget_data.csv is composed of two columns 'Date' and 'Profit/Losses'. 
 
 The main.py script calculates the following:
@@ -17,6 +18,7 @@ The main.py script calculates the following:
     *The greatest decrease in losses (date and amount) over the entire period
      
 #PyPoll
+
 main.py in the PyPoll folder helps a small, rural town modernize its voting counting process. The dataset called election_data.csv is composed of 'Voter Id','County', and'Candidate'.
 
 The main.py script analyzes the votes and calculates the following:
