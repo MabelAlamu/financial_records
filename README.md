@@ -14,3 +14,5 @@ The financial_script calculates the following and saves the output as a csv file
   
 * The greatest decrease in losses (date and amount) over the entire period
  
+ Output:
+  ![financial_analysis_output](financial_analysis.png)
