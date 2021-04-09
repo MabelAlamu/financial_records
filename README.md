@@ -1,6 +1,6 @@
 # Analyzing Financial Records
 
-[Financial_script](https://github.com/MabelAlamu/financial_records/blob/main/financial_script.ipynb) contains code that analyzes the financial records of a fictional company. The financial data, [budget_data.csv](https://github.com/MabelAlamu/financial_records/blob/main/budget_data.csv) is composed of two columns 'Date' and 'Profit/Losses'. 
+[Financial_script](https://github.com/MabelAlamu/financial_records/blob/main/financial_script.ipynb) analyzes the financial records of a fictional company. The financial data, [budget_data.csv](https://github.com/MabelAlamu/financial_records/blob/main/budget_data.csv) is composed of two columns 'Date' and 'Profit/Losses'. 
 
 The financial_script calculates the following and saves the output as a csv file:
 
