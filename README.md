@@ -4,7 +4,7 @@
 
 The financial_script calculates the following and saves the output as a csv file:
 
-*The total number of months included in the dataset
+ *The total number of months included in the dataset
   
 *The net total amount of "Profit/Losses" over the entire period
   
